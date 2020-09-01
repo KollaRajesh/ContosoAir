@@ -1,8 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
-
-<!-- [![Build Status](https://dev.azure.com/rajeshkolla01GITHUB/rajeshkolla01GITHUB/_apis/build/status/KollaRajesh.ContosoAir?branchName=master)](https://dev.azure.com/rajeshkolla01GITHUB/rajeshkolla01GITHUB/_build/latest?definitionId=1&branchName=master) -->
+[![Build Status](https://dev.azure.com/rajeshkolla01GITHUB/rajeshkolla01GITHUB/_apis/build/status/KollaRajesh.ContosoAir?branchName=git-actions_azure-pipelines)](https://dev.azure.com/rajeshkolla01GITHUB/rajeshkolla01GITHUB/_build/latest?definitionId=1&branchName=git-actions_azure-pipelines)
 
 # Microsoft.Github CI Demo
 
