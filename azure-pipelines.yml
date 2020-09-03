@@ -7,6 +7,7 @@ pool:
   vmImage: ubuntu-16.04
 trigger:
   - git-actions_azure-pipelines
+  
 steps:
   - task: Npm@1
     inputs:

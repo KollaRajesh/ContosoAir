@@ -1,6 +1,12 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+
+[![Build Status](https://dev.azure.com/rajeshkolla01GITHUB/rajeshkolla01GITHUB/_apis/build/status/KollaRajesh.ContosoAir?branchName=git-actions_azure-pipelines)](https://dev.azure.com/rajeshkolla01GITHUB/rajeshkolla01GITHUB/_build/latest?definitionId=1&branchName=git-actions_azure-pipelines)
+
+
 # Microsoft.Github CI Demo
+
+
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
